@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        twitter: '#00ADED'
+        twitter: '#00ADED',
+        facebook: '#4267B2'
       }
     },
   },
