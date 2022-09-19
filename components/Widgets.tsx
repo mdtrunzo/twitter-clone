@@ -16,7 +16,7 @@ function Widgets() {
 
       <TwitterTimelineEmbed
         sourceType="profile"
-        screenName="independiente"
+        screenName="nextjs"
         options={{ height: 1000 }}
       />
     </div>
