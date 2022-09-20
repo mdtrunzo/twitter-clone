@@ -18,11 +18,14 @@
     "@sanity/image-url": "^1.0.1",
     "@sanity/types": "^2.33.2",
     "next": "12.3.0",
+    "next-auth": "^4.10.3",
     "next-sanity": "^0.8.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0",
     "react-timeago": "^7.1.0",
-    "react-twitter-embed": "^4.0.4"
+    "react-twitter-embed": "^4.0.4",
+    "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
     "@types/node": "18.7.18",
